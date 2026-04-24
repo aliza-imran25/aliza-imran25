@@ -142,7 +142,7 @@ class AlizaImran:
 
 ### 🤝 Let's Connect & Build Something Cool Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/aliza-imran-3609b2289?utm_source=share_via&utm_content=profile&utm_medium=member_android])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/aliza-imran-3609b2289])
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail)](mailto:alizaimran774@gmail.com)
 
 <br/>
