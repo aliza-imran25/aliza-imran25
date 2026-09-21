@@ -12,8 +12,6 @@
 
 Software Engineering student at **UET Taxila** (CGPA 3.66/4.0). I build with **LLMs**, **RAG**, and **agentic systems**—mostly LangChain, LangGraph, and Google Gemini.
 
-**Now:** [SkillSync](https://github.com/Hammad498/SkillSync) — AI career assistant for resume optimization and semantic job matching (FYP).
-
 **Learning:** RAG pipelines, vector stores (FAISS, Pinecone), LLM fine-tuning.
 
 Open to AI/ML internships and collaborations.
